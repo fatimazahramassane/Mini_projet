@@ -1,0 +1,10 @@
+Grid,Algorithm,Cost,Nodes Expanded,Max OPEN,Time (s)
+Easy,UCS,8,22,5,0.0001
+Easy,Greedy,8,9,6,0.0
+Easy,A*,8,22,5,0.0001
+Medium,UCS,18,91,13,0.0004
+Medium,Greedy,18,19,17,0.0001
+Medium,A*,18,76,13,0.0003
+Hard,UCS,28,197,14,0.0008
+Hard,Greedy,28,29,27,0.0001
+Hard,A*,28,175,15,0.0007

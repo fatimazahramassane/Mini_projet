@@ -1,0 +1,7 @@
+Grid,Algorithm,Cost,Nodes Expanded,Max OPEN,Time (s)
+Easy,A* (w=1.0),8,22,5,0.0001
+Easy,Weighted A* (w=1.5),8,9,6,0.0
+Medium,A* (w=1.0),18,76,13,0.0003
+Medium,Weighted A* (w=1.5),18,19,17,0.0001
+Hard,A* (w=1.0),28,148,23,0.0006
+Hard,Weighted A* (w=1.5),28,29,27,0.0001

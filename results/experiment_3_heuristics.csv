@@ -1,0 +1,7 @@
+Grid,Heuristic,Cost,Nodes Expanded,Max OPEN,Time (s)
+Easy,Zero (UCS),8,22,5,0.0001
+Easy,Manhattan,8,22,5,0.0001
+Medium,Zero (UCS),18,91,13,0.0004
+Medium,Manhattan,18,76,13,0.0003
+Hard,Zero (UCS),28,195,16,0.0008
+Hard,Manhattan,28,158,27,0.0006
