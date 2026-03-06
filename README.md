@@ -23,7 +23,7 @@ Objectif principal : montrer que même un plan optimal déterministe devient tr�
 ## Structure du dépôt
 Mini_projet/
 
- --> astar.py               # A*, UCS, Greedy, Weighted A*
+ --> astar.py               # A*, UCS, Greedy, Weighted A* /n
  --> grid.py                # Génération grilles easy/medium/hard + visualisation basique
  --> markov.py              # Politique du chemin, matrice P, absorption, simulation MC, analyse classes
  --> experiments.py         # Exécution automatique des 4 expériences (E1 à E4) + CSV
