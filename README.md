@@ -23,15 +23,33 @@ Objectif principal : montrer que même un plan optimal déterministe devient tr�
 ## Structure du dépôt
 Mini_projet/
 
- --> astar.py               # A*, UCS, Greedy, Weighted A* /n
+ --> astar.py               # A*, UCS, Greedy, Weighted A* 
+
+ 
  --> grid.py                # Génération grilles easy/medium/hard + visualisation basique
+
+ 
  --> markov.py              # Politique du chemin, matrice P, absorption, simulation MC, analyse classes
+
+ 
  --> experiments.py         # Exécution automatique des 4 expériences (E1 à E4) + CSV
+
+ 
  --> visualizations.py      # Heatmaps P, courbes π(n), histogrammes, graphes NetworkX
+
+ 
  --> main.py                # Lance tout (expériences + visualisations clés)
+
+ 
  --> Visu.ipynb             # Notebook Jupyter complet pour présentation (tableaux stylés + toutes les figures)
+
+ 
  --> results/               # Résultats CSV (experiment_1, _2, _3, _4)
+
+ 
  --> figures/               # Toutes les images générées (chemins, heatmaps, courbes, histogrammes...)
+
+ 
  --> README.md              # Ce fichier
 ##
 ## Prérequis
